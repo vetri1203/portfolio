@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f05a9c90.css",
+    "main.js": "/portfolio/static/js/main.ba2f430d.js",
+    "static/js/787.1fee1fb8.chunk.js": "/portfolio/static/js/787.1fee1fb8.chunk.js",
+    "static/media/internet.gif": "/portfolio/static/media/internet.03c329ca71a1d24abdc0.gif",
+    "static/media/vetrivel profile.jpeg": "/portfolio/static/media/vetrivel profile.0d526da7f61610e42781.jpeg",
+    "static/media/vscode.jpeg": "/portfolio/static/media/vscode.600131bbb976bbdf10ea.jpeg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/twitter.png": "/portfolio/static/media/twitter.c6e48e60f856cb822273.png",
+    "static/media/github.png": "/portfolio/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/portfolio/index.html",
+    "main.f05a9c90.css.map": "/portfolio/static/css/main.f05a9c90.css.map",
+    "main.ba2f430d.js.map": "/portfolio/static/js/main.ba2f430d.js.map",
+    "787.1fee1fb8.chunk.js.map": "/portfolio/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05a9c90.css",
+    "static/js/main.ba2f430d.js"
+  ]
+}
