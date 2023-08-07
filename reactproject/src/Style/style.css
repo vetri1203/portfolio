@@ -119,12 +119,11 @@ li {
 .about {
     margin-right: 43%;
     color:#000;
-    position: absolute;
     padding-right: 10;
     left: 181px;
-    top: 58%;
     font-size: 30px;
     font-family: 'Great Vibes', cursive;
+    margin-bottom: 20%;
 }
 
 /* .about:hover {
@@ -415,7 +414,7 @@ font-family: 'Noto Serif', serif;
 }
 .gymx{
     position: absolute;
-    margin-left: 15%;
+    /* margin-left: 15%; */
 }
 
 /* ----------------------------Internship---------------------------- */
