@@ -1,0 +1,447 @@
+/* @import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400&display=swap');
+
+/* ----------------------------Home---------------------------- */
+
+
+.back{
+    text-decoration: none;
+    margin-left:90%;
+    background-color:red;
+    color: #fff;
+    padding: 5px;
+    margin-bottom: 25%;
+    
+}
+.back:hover{
+    background-color:green;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.fname {
+    
+}
+
+h1.fname {
+    position: absolute;
+    top: 330px;
+    left: 178px;
+    font-family: 'Crimson Text', serif;
+}
+
+
+
+
+.profile {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-left: 63%;
+    margin-top: 0px;
+  
+}
+
+body {
+    /* background-color: rgb(249, 238, 238); */
+    background-color: #fff;
+}
+
+img.internet {
+    height: 230px;
+    margin-top: 50px;
+    /* position: fixed; */
+    /* top: 75px; */
+}
+
+
+
+/* ----------------------------navbar---------------------------- */
+
+.nav {
+    background-color: #a09b9b;
+    color:#000;
+    height: 60px;
+    margin-top: -15px;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    
+}
+
+
+.linkHome {
+    color:#000;
+    text-decoration: none;
+}
+
+li:hover {
+    background: aqua;
+    /* color:#e12727; */
+    padding-bottom: 16px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+.linkEdu {
+    color:#000;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    /* padding-top: 10px; */
+    display: flex;
+}
+
+li {
+    padding: 8px;
+}
+
+
+
+
+
+
+/* ---------------------------- About---------------------------- */
+
+
+
+
+
+.about {
+    margin-right: 43%;
+    color:#000;
+    position: absolute;
+    padding-right: 10;
+    left: 181px;
+    top: 58%;
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+}
+
+/* .about:hover {
+    background-image: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(245, 245, 245), rgb(221, 187, 125), rgb(216, 101, 101));
+    font-size: 20px;
+    color: black;
+
+    border-radius: 8px;
+    padding: 20px 10px 20px 10px;
+    cursor: help;
+} */
+
+
+
+
+
+
+/* ----------------------------Educations---------------------------- */
+
+
+
+
+
+
+
+#education {
+    color:#000;
+    margin-top: -5%;
+    display: flex;
+
+    margin-left: 2%;
+}
+
+h1.temp {
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 9%;
+    top: 78%;
+
+
+}
+
+.degh {
+    /* position:absolute; */
+
+    position: static;
+    margin-top: 75px;
+    font-size: 25px;
+
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+.clg {
+    margin-top: 120px;
+    position: absolute;
+    width: 33%;
+    /* background-color: #0bb616; */
+    padding-bottom: 20px;
+}
+
+
+
+b {
+    font-size: 20px;
+}
+
+
+.sclh {
+    position: static;
+    /* margin-top: 75px; */
+    font-size: 25px;
+
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.hsc {
+    margin-top: 120px;
+    margin-left: 34%;
+    /* background-color: rgb(180, 21, 21); */
+    width: 35%;
+    padding: 55px 5px 55px;
+}
+
+.sslc {
+    margin-top: 120px;
+    margin-left: 15px;
+    width: 35%;
+    padding: 55px 5px 55px;
+}
+.sslch{
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 25px;
+    position: static;
+}
+.cls{
+    margin-top: -3px;
+}
+
+.clss1,.clss2,.clss3{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+/* ----------------------------Educations  hover---------------------------- */
+
+
+.clg:hover {
+    font-size: 18px;
+    color: #000;
+    border-radius: 8px;
+    box-shadow: 0px 0px 12px 2px;
+    width: 500px;
+    height: 200px;
+
+   
+}
+
+.hsc:hover {
+    font-size: 18px;
+    color: #000;
+    border-radius: 8px;
+    box-shadow: 0px 0px 12px 2px;
+    width: 500px;
+    height: 100px;
+
+    /* padding-top: -50px; */
+}
+
+.sslc:hover {
+    font-size: 18px;
+    color: #000;
+    border-radius: 8px;
+    box-shadow: 0px 0px 12px 2px;
+    width: 500px;
+    height: 100px;
+    padding-right: 5px;
+    position: relative;
+
+}
+
+/* ----------------------------Skills---------------------------- */
+
+
+.skillsName{
+    
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 5%;
+}
+
+
+.skillsImg {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+  }
+  
+  .skillsImg img {
+    flex: 0 0 calc(15% ); 
+    margin: 15px;
+  }
+
+
+/* ----------------------------Tools---------------------------- */
+
+
+.toolName{
+    
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 5%;
+}
+
+
+.toolsImg {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 15%;
+
+  }
+  
+  .toolsImg img {
+    flex: 0 0 calc(15% ); 
+    margin: 15px;
+  }
+
+.vscode {
+    width: 200px;
+    height: 200px;
+}
+
+/* ----------------------------project---------------------------- */
+
+
+.projectName{
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 5%;
+}
+
+.eventName{
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+
+
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.exploreName{
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+
+
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.abtEvent,.abtExplore,.techUsed{
+font-family: 'Noto Serif', serif;
+
+}
+
+.techUsed{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    font-size: 20px;
+    gap: 5%;
+}
+
+.toolandtech{
+    color: rgb(230, 70, 70);
+    margin-left: 5px;
+}
+
+
+/* ----------------------------Internship---------------------------- */
+
+.details{
+    align-items: center;
+    justify-content: center;
+   display: flex;
+   flex-direction:row;
+   gap: 1%;
+}
+.ans{
+    margin-top: 5px;
+}
+
+.companyName{
+    text-align: center;
+    color: rgb(230, 70, 70);
+    margin-top: 7%;
+}
+
+
+.internName{
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 5%;
+}
+.gymx{
+    position: absolute;
+    margin-left: 15%;
+}
+
+/* ----------------------------Internship---------------------------- */
+
+.contactName{
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(196, 140, 182), rgb(227, 68, 68), rgb(225, 165, 53), rgb(216, 101, 101));
+
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 45px;
+    margin-top: 5%;
+}
+
+
+/* ----------------------------Internship---------------------------- */
+
+.linkedinlogo,.githublogo,.instalogo,.twitter{
+    height: 50px;
+    
+}
+
+.contactImg{
+    display: flex;
+    flex-direction: row;
+    gap: 3%;
+    align-items: center;
+    justify-content: center;
+}
